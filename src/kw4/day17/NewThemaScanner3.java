@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class NewThemaScanner3 {
     public static void main(String[] args) {
-//        myPrint();
         myScanner();
 
     }
@@ -21,10 +20,5 @@ public class NewThemaScanner3 {
         System.out.println(x);
         System.out.println(s);
         input.close();
-    }
-
-    private static void myPrint() {
-        System.out.println();
-        System.out.print("dfsd");
     }
 }
