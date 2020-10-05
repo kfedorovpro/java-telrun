@@ -9,7 +9,6 @@ public class ClassWork {
         System.out.println(helloName(name1));
         System.out.println(helloName(name2));
         System.out.println(helloName(name3));
-
     }
 
     private static String helloName(String username) {
