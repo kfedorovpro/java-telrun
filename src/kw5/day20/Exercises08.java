@@ -5,13 +5,13 @@ public class Exercises08 {
         int[] arr = new int[]{1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
         //int maxArr;
         int max = getMax(arr);
-        System.out.println(max);
+        System.out.println("Максимальное значение" + max);
         int min = getMin(arr);
-        System.out.println(min);
+        System.out.println("Минимальное значение" + min);
         int middle = getMiddle(arr);
-        System.out.println(middle);
+        System.out.println("Среднее значение" + middle);
         int sum = getSum(arr);
-        System.out.println(sum);
+        System.out.println("Суммарное значение" + sum);
     }
 
     private static int getSum(int[] input) {
