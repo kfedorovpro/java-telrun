@@ -51,9 +51,9 @@ public class Exercise1804 {
         // return input[0] != 2 && input[1] != 3 && input[0] != 3 && input[1] != 2;
     }
 
-    private static void myPrintIntArray(int[] input) {
+    public static void myPrintIntArray(int[] input) {
         for (int element : input) {
-            System.out.print(element + " ");
+            System.out.print(element + ", ");
         }
         System.out.println();
     }
