@@ -1,0 +1,49 @@
+body {
+    background-color: rgb(68, 206, 187);
+}
+
+h1 {
+    color: blueviolet;
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h3 {
+    color: white;
+    font-family: "Source Code Pro", Menlo, Monaco, fixed-width;
+}
+
+p {
+    font-family: Open Sans;
+    color: black;
+}
+
+.second_a {
+    background-color: cornsilk;
+}
+
+blockquote {
+    display: block;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 40px;
+    margin-right: 40px;
+  }
+
+ul {
+    font-size: 18pt;
+}
+
+li {
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+img {
+    border-radius: 50px;
+    width: 500px;
+    height: auto;
+    border-color: darkgray;
+    border-width: 5px;
+    border-style: solid;
+}
