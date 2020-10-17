@@ -1,0 +1,46 @@
+.header {
+    width: 600px;
+    height: 120px;
+    padding: 0 15px;
+    margin: 0 auto;
+  }
+  body {
+    background-color: blanchedalmond;
+}
+  .logo {
+    float: left;
+  }
+  nav {
+    float: right;
+  }
+  nav ul {
+    font-family: Open Sans Semibold;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+  }
+  nav li {
+    display: inline-block; 
+  }
+  nav a {
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
+  }
+        
+h1 {
+    color: black;
+    font-size: 20px;
+    font-family: Open Sans;
+}
+article {
+    display: block;  
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.table1 {
+  border: thin;
+  border: 1;
+  margin: auto;
+  width: 800px;
+}
