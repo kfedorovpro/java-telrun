@@ -1,0 +1,25 @@
+Start
+Sun Oct 18 11:47:45 UTC 2020
+total 68
+drwxrwxrwx   21 Konstantin     Konstantin           461 Oct 18 11:45 .
+drwxrwxrwx   21 Konstantin     Konstantin           461 Oct 18 11:45 ..
+-rw-------    1 Konstantin     Konstantin           905 Jun 24 15:53 .ash_history
+-rw-rw-rw-    1 Konstantin     Konstantin             0 Oct 18 11:45 .fscmd
+drwxr-xr-x    2 Konstantin     Konstantin           297 Jul  5 23:05 .preload2
+drwxr-xr-x    2 Konstantin     Konstantin          2089 Sep 28 12:10 bin
+drwxr-xr-x    4 Konstantin     Konstantin          2240 Oct 18 11:45 dev
+drwxr-xr-x   38 Konstantin     Konstantin          1935 Sep 28 12:26 etc
+drwxr-xr-x    3 Konstantin     Konstantin            58 Jul  5 15:27 home
+drwxr-xr-x    8 Konstantin     Konstantin           901 Aug 17 21:14 lib
+drwxr-xr-x    5 Konstantin     Konstantin           102 May 29 16:20 media
+drwxr-xr-x    2 Konstantin     Konstantin            37 May 29 16:20 mnt
+drwxr-xr-x    3 Konstantin     Konstantin            58 May 29 16:20 opt
+dr-xr-xr-x   39 Konstantin     Konstantin             0 Oct 18 11:45 proc
+drwxr-xr-x    5 Konstantin     Konstantin           237 Sep 28 12:26 Konstantin
+drwxr-xr-x    4 Konstantin     Konstantin           140 Oct 18 11:45 run
+drwxr-xr-x    2 Konstantin     Konstantin          2363 Aug 17 21:14 sbin
+drwxr-xr-x    2 Konstantin     Konstantin            37 May 29 16:20 srv
+dr-xr-xr-x   12 Konstantin     Konstantin             0 Oct 18 11:45 sys
+drwxrwxrwt    2 Konstantin     Konstantin            37 Sep 10 17:39 tmp
+drwxr-xr-x   10 Konstantin     Konstantin           229 Jun 24 15:46 usr
+drwxr-xr-x   16 Konstantin     Konstantin           348 Aug 27 13:00 var
