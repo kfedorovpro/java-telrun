@@ -20,6 +20,18 @@ public class HwString {
         System.out.println(xyzThere("abc.xyz")); //→ false
         System.out.println(xyzThere("xyz.abc")); //→ true
         split();
+        System.out.println(mixString("abc", "xyz")); //→ "axbycz"
+        System.out.println(mixString("Hi", "There")); //→ "HTihere"
+        System.out.println(mixString("xxxx", "There")); //→ "xTxhxexre"
+    }
+
+    private static String mixString(String str1, String str2) {
+        String output = "";
+        int min = Math.min(str1.length(), str2.length());
+        for (int i = 0; i < min; i++) {
+            output = output + str1.charAt(i) + str2.charAt(i);
+        }
+        return output = output + str2.substring(min) + str1.substring(min);
     }
 
     private static boolean xyzThere(String str) {
