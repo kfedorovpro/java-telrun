@@ -1,0 +1,22 @@
+   0 mkdir /tmp/hw/
+   1 touch /tmp/hw/hwkonstantin.txt
+   2 date >> /tmp/hw/hwkonstantin.txt 
+   3 df -h / >> /tmp/hw/hwkonstantin.txt 
+   4 history
+   5 cat /tmp/hw/hwkonstantin.txt 
+   6 history | tail -5 >> /tmp/hw/hwkonstantin.txt 
+   7 cat /tmp/hw/hwkonstantin.txt 
+   8 cat /proc/cpuinfo/
+   9 cat /proc/cpuinfo
+  10 /proc/cpuinfo | grep vendor
+  11 cat /proc/cpuinfo | grep vendor
+  12 cat /proc/cpuinfo | grep vendor >> /tmp/hw/hwkonstantin.txt 
+  13 nano /tmp/hw/hwkonstantin.txt 
+  14 clear
+  15 ps -ef
+  16 ps -ef wc -l
+  17 clear
+  18 ps -ef | wc -l >> /tmp/hw/hwkonstantin.txt 
+  19 cat /tmp/hw/hwkonstantin.txt 
+  20 export_file /tmp/hw/hwkonstantin.txt 
+  21 history >> /tmp/hw/history.txt

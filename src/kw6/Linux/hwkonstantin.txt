@@ -1,0 +1,10 @@
+Mon Oct 26 10:21:27 UTC 2020
+Filesystem                Size      Used Available Use% Mounted on
+/dev/root                 4.9G      1.6G      3.2G  33% /
+   2 date >> /tmp/hw/hwkonstantin.txt 
+   3 df -h / >> /tmp/hw/hwkonstantin.txt 
+   4 history
+   5 cat /tmp/hw/hwkonstantin.txt 
+   6 history | tail -5 >> /tmp/hw/hwkonstantin.txt 
+AuthenticX86
+32
